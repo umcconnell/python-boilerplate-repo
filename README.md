@@ -6,7 +6,7 @@ A simple python boilerplate to get your projects up and running quickly.
 
 -   [Getting Started](#getting-started)
     -   [Prerequisites](#prerequisites)
-    -   [Installing](#installing)
+    -   [Initial setup](#initial-setup)
 -   [Distributing](#distributing)
     -   [Installing packages](#installing-packages)
 -   [Customizing](#customizing)
@@ -28,7 +28,7 @@ how to deploy the project on a live system.
 You will need python3 and pip3 installed on your machine. You can install it
 from the official website https://www.python.org/.
 
-### Installing
+### Initial setup
 
 A step by step series of examples that tell you how to get a virtual python
 environment running:
