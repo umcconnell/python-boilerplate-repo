@@ -8,7 +8,8 @@ A simple python boilerplate to get your projects up and running quickly.
     -   [Prerequisites](#prerequisites)
     -   [Initial setup](#initial-setup)
 -   [Distributing](#distributing)
-    -   [Installing packages](#installing-packages)
+    -   [Installing](#installing)
+    -   [Installing additional packages](#installing-additional-packages)
 -   [Customizing](#customizing)
 -   [Contributing](#contributing)
 -   [Versioning](#versioning)
@@ -67,7 +68,21 @@ Happy coding!
 
 ## Distributing
 
-### Installing packages
+### Installing
+
+To get started, activate the virtual environment:
+
+```bash
+source venv/bin/activate
+```
+
+Install the packages from `requirements.txt`:
+
+```bash
+pip3 install -r requirements.txt
+```
+
+### Installing additional packages
 
 After activating the virtual environment, install your package(s)
 
