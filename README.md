@@ -139,3 +139,4 @@ virtual environments.
 -   [VirtualEnv](https://gist.github.com/raulqf/2ca75d7fef2824f03de9761b99b59371) -
     Guide and explanations
 -   [python-virtual-environment-howto](https://gist.github.com/simonw/4835a22c79a8d3c29dd155c716b19e16) - Guide and explanations
+-   [Contributor Covenant](https://www.contributor-covenant.org/) - Code of Conduct
